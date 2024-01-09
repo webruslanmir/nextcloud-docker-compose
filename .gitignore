@@ -1,3 +1,4 @@
-db/*
-html/*
+db/
+nextcloud/
 .env
+.vscode/
