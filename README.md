@@ -1,3 +1,3 @@
 # nextcloud-docker-compose
 Quick start docker-compose nextcloud service  
-```docker-compose up -d```
+```docker-compose up --build -d```
